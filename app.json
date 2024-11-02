@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "codespaces-blank",
-    "slug": "codespaces-blank",
+    "name": "weatherx",
+    "slug": "weatherx",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -31,6 +31,17 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8329044f-f108-4731-a71d-4b1b6467dafd"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/8329044f-f108-4731-a71d-4b1b6467dafd"
     }
   }
 }
